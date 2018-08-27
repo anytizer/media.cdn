@@ -1,0 +1,8 @@
+/css
+/js
+/scss/.sass-cache
+/public_html/css
+/public_html/js
+/logs/access.log
+/logs/error.log
+/cookie.txt
