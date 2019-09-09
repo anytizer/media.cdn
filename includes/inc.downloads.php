@@ -6,7 +6,7 @@ $downloads = array();
 // https://code.angularjs.org/
 $downloads["angularjs"] = array(
 	"to" => "js/angularjs",
-	"from" => "https://code.angularjs.org/1.7.3/",
+	"from" => "https://code.angularjs.org/1.7.8/",
 	"files" => array(
 		"angular-animate.min.js",
 		"angular-aria.min.js",
@@ -29,7 +29,7 @@ $downloads["angularjs"] = array(
 // https://unpkg.com/@uirouter/angularjs/
 $downloads["ui-router"] = array(
 	"to" => "js/ui-router",
-	"from" => "https://unpkg.com/@uirouter/angularjs@1.0.20/release/",
+	"from" => "https://unpkg.com/@uirouter/angularjs@1.0.22/release/",
 	"files" => array(
 		"angular-ui-router.min.js",
 		"resolveService.min.js",
@@ -75,7 +75,7 @@ $downloads["fontawesome-4.7.0"] = array(
 // https://cdnjs.com/libraries/twitter-bootstrap
 $downloads["bootstrap"] = array(
 	"to" => "css/bootstrap",
-	"from" => "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3",
+	"from" => "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1",
 	"files" => array(
 		"css/bootstrap-grid.min.css",
 		"css/bootstrap-reboot.min.css",

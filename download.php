@@ -45,7 +45,7 @@ foreach($downloads as $module)
 		$fc = download($url);
 		
 		// Save
-		$target = "$to/{$file}";
+		$target = "{$to}/{$file}";
 		save($target, $fc);
 
 		// Show download progress marker
