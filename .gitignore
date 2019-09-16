@@ -6,3 +6,4 @@
 /logs/access.log
 /logs/error.log
 /cookie.txt
+/node_modules

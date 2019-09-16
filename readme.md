@@ -3,6 +3,7 @@ Host and serve selected JS, CSS media resources
 
 
 ## Installation
+	npm install --save @ng-bootstrap/ng-bootstrap
 
     php -f download.php
 
